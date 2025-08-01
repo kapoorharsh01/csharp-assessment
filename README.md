@@ -17,10 +17,10 @@ Design a basic console-based Vehicle Rental System with the following components
       - Method: CalculateTotal()
     
 ## 2. Interface
-  Create an interface IRentable with the following methods:
-    - Rent(DateTime start, DateTime end)
-    - ReturnVehicle()
-  Implement this interface in Car and Bike.
+  * Create an interface IRentable with the following methods:
+     - Rent(DateTime start, DateTime end)
+     - ReturnVehicle()
+  * Implement this interface in Car and Bike.
 
 ## 3. Functional Requirements
   - Add vehicles to the system.
